@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class AdminBean implements Serializable
 {
 	private static final long serialVersionUID = 1L;
-	
+	// hai..........
 	private String hospitalName;
 	private int adminId;
 	private String firstName;
